@@ -44,7 +44,7 @@ function Sidebar() {
           <UserButton />
         </div>
         <h1 className="capitalize">
-          {firstName} {lastName}
+          {firstName}
         </h1>
       </div>
       <ul className="nav-items">
