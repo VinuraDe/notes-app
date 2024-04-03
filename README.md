@@ -1,13 +1,14 @@
-Getting Started
+# Getting Started
 First, run the development server:
 
 npm run dev
-# or
+ or
 yarn dev
 
-Dependencies - 
+## Dependencies  
+
     clerk - for Authentication
-    prima - to connet to the DB
+    prisma - to connet to the DB
     Tailwind and post css - Styling
     
     
